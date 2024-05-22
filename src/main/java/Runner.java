@@ -6,7 +6,7 @@ public class Runner {
 
         //nesibe değişiklik yaptı
 
-        System.out.println();
+        System.out.println("");
 
 
 
